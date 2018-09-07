@@ -5,9 +5,7 @@
 
 A continuación se especifican algunos enlaces para utilizar la herramienta desarrollada en un servidor de pruebas http://tesis-pda.sedici.unlp.edu.ar/auth.
 
-### Repositorio SEDICI de prueba
-http://tesis-pda.sedici.unlp.edu.ar/tesina/
-	
+
 ### Sistema de gestión de vocabularios controlados
 http://tesis-pda.sedici.unlp.edu.ar/auth
 Usuario: editorprueba
